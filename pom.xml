@@ -66,7 +66,7 @@
 		<jjwt.version>0.9.1</jjwt.version>
 		<therapi-runtime-javadoc.version>0.15.0</therapi-runtime-javadoc.version>
 		<spring-cloud-function.version>4.2.1</spring-cloud-function.version>
-		<spring-security-oauth2-authorization-server.version>1.4.0</spring-security-oauth2-authorization-server.version>
+		<spring-security-oauth2-authorization-server.version>1.5.0</spring-security-oauth2-authorization-server.version>
 	</properties>
 
 	<dependencyManagement>
